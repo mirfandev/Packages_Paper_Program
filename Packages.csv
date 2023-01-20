@@ -1,0 +1,5 @@
+Machine No.,Substrate,hrs,Produced Meter/hr,Speed(m/hr),Total RunTime(hrs),Warmup Time(hrs),Changeover Time(hrs),Waiting Time(hrs),Density of PET+MOPP(g/cm3),Energy_KWh
+22140,PET+MOPP,6.46,1800.309598,7.5,1.15,0.25,0.13,0.125,1.4,259
+22140,PET+MOPP,6.7,7741.940299,7.5,5.7667,0.25,0.36,0.35,1.4,372
+22140,PET+MOPP,6.13,19483.68679,7.5,13.517,0.25,2.3,2.2,1.4,1623
+22140,PET+MOPP,0.33,531596.9697,7.5,16.033,0.25,2.1,2.135,1.4,721
